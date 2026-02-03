@@ -1,4 +1,5 @@
 # 🌸 Mizuki 
+https://dash.cloudflare.com/81309a061a7f65ec6d8c5797de521b35/workers/services/view/blog/production
 <img align='right' src='logo.png' width='200px' alt="Mizuki logo">
 
 A modern, feature-rich static blog template built with [Astro](https://astro.build), featuring advanced functionality and beautiful design.
